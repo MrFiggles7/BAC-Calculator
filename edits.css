@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    margin-top: 2em;
+    font-family: Arial;
+    border: solid grey 2px;
+    padding-top: .25em;
+    padding-bottom: .25em;
+}
+
+.form-group{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin-top: 8em;
+    font-family: Arial;
+}
+
+.wrapper{
+
+    width: 50%;
+
+    float: left;
+}
+
+.twentyfive{
+
+    width: 50%;
+    float: right;
+}
+
+#BeersConsumed, #Hours, #ShotsConsumed, #WineConsumed, #WeightPounds, #buttonsubmit{
+    margin-bottom: 2em;
+}
+
+.rightside{
+
+    float: left;
+    width: 50%;
+    margin-top: 8em;
+}
+
+.split{
+
+    width: 50%;
+    float: right;
+}
+.rightside p{
+    margin-left: 2em;
+    margin-bottom: 3.5em;
+    font-size: 1.5em;
+    display: none;
+    font-family: Arial;
+}
+
+.rightside h3{
+    margin-left: 5em;
+    text-align: center;
+    display: none;
+    font-family: Arial;
+}
+.rightside h2{
+    margin-left: 5em;
+    text-align: center;
+    margin-top: 1em;
+    display: none;
+    font-family: Arial;
+}
+
+
